@@ -12,8 +12,3 @@ The Art Puzzle Game is a traditional jigsaw-style puzzle built with HTML, CSS, a
 - ⏱️ Built-in timer to track completion speed
 - 🔄 Refresh button to switch between different artworks
 - 🎨 Simple, intuitive interface focused on usability and playability
-
-## 🛠️ Built With
-- HTML5
-- CSS3
-- JavaScript
